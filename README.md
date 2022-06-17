@@ -35,4 +35,7 @@
 
 ### 사용할 Open API
 
-[제주데이터허브에서 제공하는 [관광, 여행] 캠핑 가능 장소 위치 정보](https://www.jejudatahub.net/data/view/data/810)
+[한국관광공사에서 제공하는 고캠핑정보 조회 서비스](https://www.data.go.kr/data/15063201/openapi.do)
+
+### 프로젝트 결과물
+
