@@ -47,6 +47,6 @@
 <br />
 
 ### License (with OLIVE)
-![License Notice]([https://www.data.go.kr/data/15063201/openapi.do](https://github.com/Hondi-OSS/HondiCamping/blob/main/License_notice.md))
+![License Notice](https://github.com/Hondi-OSS/HondiCamping/blob/main/License_notice.md)
 
 <img width="1440" alt="스크린샷 2022-06-17 오전 10 56 12" src="https://user-images.githubusercontent.com/48265714/174213752-d7ffe995-a222-47c1-bd70-9bf10938534c.png">
